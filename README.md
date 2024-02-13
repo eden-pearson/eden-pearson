@@ -10,5 +10,6 @@ Ongoing projects:
 - waitangi marae website
 - te reo māori learning web app
 - personal portfolio website
+- habit tracking mobile app
 
 Email me to enquire about collaborating on work - edenrosepearson@gmail.com
