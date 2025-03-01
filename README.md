@@ -1,14 +1,14 @@
 ### Kia ora!  👋
 
 
-I'm a Full Stack Developer committed to crafting inclusive and accessible software, aiming to make a positive impact on the lives of everyday kiwis. Currently, I'm working on developing technology solutions to empower māori communities in Tai Tokerau (northland)
+I'm a Full Stack Developer committed to crafting inclusive and accessible software.
 
 
-My journey into tech began during my time as a digital marketer in the healthcare industry, where I got an inside look into the transformative potential of technology. This sparked my curiosity and led me to explore coding during my free time and then training with Dev Academy Aotearoa
+My journey into tech began during my time as a digital marketer in the healthcare industry, where I got an inside look into the transformative potential of technology. This sparked my curiosity and led me to explore coding during my free time, then training with Dev Academy Aotearoa and finally pursuing a Master's in Applied Computing at Lincoln University.
 
-Ongoing projects:
+Current projects:
+- exercise web app
 - te reo māori learning web app
 - personal portfolio website
-- wellbeing mobile app
 
 Email me to enquire about collaborating on work - edenrosepearson@gmail.com
